@@ -2,7 +2,7 @@
 - I’m interested in python and all the other Programming language and am currently learning 
 
 - I’m looking to collaborate on nothing right now lol
-Talk to me on telegram [@DontKnowWhoRU](https://t.me/DontKnowWhoRU)
+Talk to me on telegram [@DontKnowWhyRU](https://t.me/DontKnowWhyRU)
 
 [![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zack-Bloodshot)](https://github.com/anuraghazra/github-readme-stats)
 
