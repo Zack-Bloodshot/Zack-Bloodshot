@@ -1,10 +1,10 @@
 - Hi, I’m Zack
 - I’m interested in python and all the other Programming language and am currently learning 
+- I’m not much active, still maintaining repos and bot.
+-Talkk to me on telegram [@DontKnowWhyRU](https://t.me/DontKnowWhyRU)
 
-- I’m looking to collaborate on nothing right now lol
-Talk to me on telegram [@DontKnowWhyRU](https://t.me/DontKnowWhyRU)
-
-[![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zack-Bloodshot)](https://github.com/anuraghazra/github-readme-stats)
+<img src='https://github-readme-stats.vercel.app/api?username=Zack-Bloodshot&title_color=880088&text_color=880088&icon_color=880088&bg_color=000000&hide_border=true'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-Bloodshot&layout=compact&title_color=880088&text_color=880088&icon_color=880088&bg_color=000000&hide_border=true>'>
 
 
 
