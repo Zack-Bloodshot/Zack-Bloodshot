@@ -4,6 +4,7 @@
 - I’m looking to collaborate on nothing right now lol
 Talk to me on telegram [@DontKnowWhoRU](https://t.me/DontKnowWhoRU)
 
+[![Zack-Bloodshot github stats](https://github-readme-stats.vercel.app/api?username=Zack-Bloodshot](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
