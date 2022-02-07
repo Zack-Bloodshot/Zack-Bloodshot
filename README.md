@@ -42,5 +42,5 @@
 
 ### Github status~ 
 
-<img src='https://github-readme-stats.vercel.app/api?username=Zack-Bloodshot&title_color=f4ff04&text_color=fff249&icon_color=ffdb62&bg_color=0000008&hide_border=true' height=200>
+<img src='https://github-readme-stats.vercel.app/api?username=Zack-Bloodshot&title_color=f4ff04&text_color=fff249&icon_color=ffdb62&bg_color=000000&hide_border=true' height=200>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-Bloodshot&layout=compact&title_color=f4ff04&text_color=fff249&icon_color=ffdb62&bg_color=000000&hide_border=true>' height=200>
