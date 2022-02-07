@@ -1,7 +1,7 @@
 # Yo, Me ABHI!
 
 <p align="centre">
-<img src="./ohto/ai-ohto-unscreen.gif" widht=83 height=108>
+<img src="./ohto/ohto.gif" widht=83 height=108>
 </p>
 
 ### Social Links~
