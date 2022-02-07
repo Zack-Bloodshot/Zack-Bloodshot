@@ -1,17 +1,9 @@
-<<<<<<< HEAD
 # Yo, Me ABHI!
-=======
-- Hi, I’m Zack..
-- I’m interested in python and all the other Programming language and am currently learning!
-- I’m not much active, still maintaining repos and bot.
-- Mostly active on telegram [@DontKnowWhoRU](https://t.me/DontKnowWhoRU)
->>>>>>> 93bf95e3588a41fc6eb22e6fd72b878138f6de88
 
 <p align='centre'>
 <img src='ai-ohto-unscreen.gif' widht=83 height=108>
 </p>
 
-<<<<<<< HEAD
 ### Social Links~
 <div align = left>
   <a href="https://t.me/HeyDoUKnowMe"><img src="https://img.shields.io/badge/@HeyDoUKnowMe-00ccff?style=flat-square&logo=telegram&logoColor=blue" alt="" srcset=""></a>
