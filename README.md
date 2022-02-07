@@ -42,8 +42,5 @@
 
 ### Github status~ 
 
-<img src='https://github-readme-stats.vercel.app/api?username=Zack-Bloodshot&title_color=f4ff04&text_color=fff249&icon_color=ffdb62&bg_color=001318&hide_border=true' height=100>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-Bloodshot&layout=compact&title_color=f4ff04&text_color=fff249&icon_color=ffdb62&bg_color=001318&hide_border=true>' height=100>
-
-=======
->>>>>>> 93bf95e3588a41fc6eb22e6fd72b878138f6de88
+<img src='https://github-readme-stats.vercel.app/api?username=Zack-Bloodshot&title_color=f4ff04&text_color=fff249&icon_color=ffdb62&bg_color=001318&hide_border=true' height=150>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-Bloodshot&layout=compact&title_color=f4ff04&text_color=fff249&icon_color=ffdb62&bg_color=001318&hide_border=true>' height=150>
