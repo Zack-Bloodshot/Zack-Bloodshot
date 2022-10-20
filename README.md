@@ -1,7 +1,7 @@
 # Hi There!!
 
 <div align = center>
-  <img src="./assets/rohan.png">
+  <img src="./assets/rohan.png" height="300" width="300">
   <a href="https://t.me/ZackBloodshot"><img src="https://img.shields.io/badge/@ZackBloodshot-131621?style=for-the-badge&logo=telegram&logoColor=blue" alt="" srcset=""></a>
   <a href="https://discordapp.com/users/859099607564025896"><img src="https://img.shields.io/badge/@ZackBloodshot-131621?style=for-the-badge&logo=discord&logoColor=blue" alt="" srcset=""></a>
 </div>
