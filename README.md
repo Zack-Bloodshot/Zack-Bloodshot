@@ -1,7 +1,7 @@
 # Hi There!!
 
 <div align = center>
-  <img src="./assets/rohan.png" height="300" width="300"><br>
+  <img src="s.png" height="100" width="100"><br>
   <a href="https://t.me/ZackBloodshot"><img src="https://img.shields.io/badge/@ZackBloodshot-131621?style=for-the-badge&logo=telegram&logoColor=blue" alt="" srcset=""></a>
   <a href="https://discordapp.com/users/859099607564025896"><img src="https://img.shields.io/badge/@ZackBloodshot-131621?style=for-the-badge&logo=discord&logoColor=blue" alt="" srcset=""></a>
 </div>
@@ -37,8 +37,6 @@
 
 ### Github stats: 
 
-<img src='https://github-readme-stats.vercel.app/api?username=Zack-Bloodshot&title_color=0095B6&text_color=78779B&icon_color=ffdb62&bg_color=000000&hide_border=true'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-Bloodshot&layout=compact&title_color=0095B6&text_color=78779B&icon_color=ffdb62&bg_color=000000&hide_border=true>'>
 
 
-*a reward for everyone who read till the end!! => [GIFT!](https://youtu.be/dQw4w9WgXcQ)*
